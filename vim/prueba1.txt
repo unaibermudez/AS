@@ -1,0 +1,6 @@
+hola me llamo unai y estoy probando vim
+
+estoy probando cosas con documentos de mas de una linea 
+
+hola 
+

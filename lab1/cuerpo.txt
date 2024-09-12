@@ -1,0 +1,6 @@
+Hola NOMBRE,
+
+Este es un mensaje personalizado para ti.
+
+Saludos,
+Unai Bermudez
